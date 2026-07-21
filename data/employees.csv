@@ -1,0 +1,5 @@
+name,age,gender,company,job_role,wake_up_time,fresh_up_duration,exercise_duration,exercise,breakfast_duration,work_start_time,work_end_time,dinner_duration,relaxation_duration,sleep_hours
+avinash,27,Male,infosys,,07:45:00,30,50,True,45,09:30:00,23:15:00,60,16,8
+avinash,27,Male,infosys,,07:15:00,30,50,True,45,09:30:00,23:15:00,60,16,8
+avinash,27,Male,infosys,,07:15:00,30,50,True,45,09:30:00,23:15:00,30,16,8
+avinash,27,Male,infosys,,07:15:00,30,50,True,45,09:30:00,23:15:00,30,16,7
